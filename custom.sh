@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "CICD Pipeline"
+echo "Test"
